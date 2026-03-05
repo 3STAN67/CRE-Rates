@@ -29,7 +29,7 @@ COLORS = {
 }
 
 # --- Grouping (for chart organization)---------
-RATE_GROUP = {
+RATE_GROUPS = {
     "Benchmark Rates": ["SOFR", "Fed Funds Rate", "Prime Rate"],
     "Treasury Yields": ["2yr Treasury", "3yr Treasury", "5yr Treasury", "10yr Treasury"],
     "Spreads":         ["2s10s Spread", "10Y-3M Spread"]
